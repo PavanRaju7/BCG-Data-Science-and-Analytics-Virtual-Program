@@ -58,3 +58,5 @@ A few things to think about for this abstract include:
 What is the most important number or metric to share with the client?
 How much detail should you go into, especially with the technical details of your work?
 What impact would the model have on the client’s bottom line? Always test what you write with the “so what” test
+
+**Completion Certificate link**:[Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_qKCmHu97XZS2uQfCh_1700882217374_completion_certificate.pdf)
